@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" width="350" src="https://raw.githubusercontent.com/aliasrafbd/aliasrafbd/refs/heads/main/banner-2.jpg"  />
+  <img height="150" width="850" src="https://raw.githubusercontent.com/aliasrafbd/aliasrafbd/refs/heads/main/banner-2.jpg"  />
 </div>
 
 ###
@@ -71,6 +71,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
