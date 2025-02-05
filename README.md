@@ -1,4 +1,6 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=aliasrafbd&theme=dracula&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasrafbd&theme=dracula&hide_border=false" alt="GitHub Streak" />
+</p>
 <div align="center">
   <img height="320" src="https://raw.githubusercontent.com/aliasrafbd/aliasrafbd/refs/heads/main/Untitled-1.jpg"  />
 </div>
@@ -66,5 +68,7 @@
 ###
 
 ###
-![GitHub Streak](https://streak-stats.demolab.com?user=aliasrafbd&theme=dracula&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliasrafbd&theme=dracula&hide_border=false" alt="GitHub Streak" />
+</p>
 ###
