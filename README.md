@@ -40,28 +40,6 @@
 
 <h2 align="center">Connect With Me</h2>
 
-
-###
-# 📞 Contact Information
-
-If you have any questions, issues, or business inquiries, feel free to reach out using the details below:
-
-## 📧 Email
-[Your Email Address](mailto:your-email@example.com)
-
-## 🌐 Website
-[Your Website or Portfolio](https://yourwebsite.com)
-
-## 🔗 Social Media
-- GitHub: [@yourgithub](https://github.com/yourgithub)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
-
-## 📱 Phone (For Business Inquiries)
-📞 +[Your Country Code] [Your Phone Number]  
-*(Available from [Your Available Hours, e.g., 9 AM - 5 PM, UTC])*  
-
-
 ###
 
 <div align="center">
@@ -72,6 +50,7 @@ If you have any questions, issues, or business inquiries, feel free to reach out
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
+## 📱 Phone: 01884151500 
 
 ###
 
