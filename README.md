@@ -1,3 +1,4 @@
+![GitHub Streak](https://streak-stats.demolab.com/?user=aliasrafbd&theme=dracula&hide_border=false)
 <div align="center">
   <img height="320" src="https://raw.githubusercontent.com/aliasrafbd/aliasrafbd/refs/heads/main/Untitled-1.jpg"  />
 </div>
